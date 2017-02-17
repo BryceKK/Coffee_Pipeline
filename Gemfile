@@ -1,5 +1,10 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "rspec"
+group :test do
+  gem "rack-test"
+  gem "rake"
+  gem "rspec"
+end
+
+gem "json"
 gem "sinatra"
-gem "rake"
