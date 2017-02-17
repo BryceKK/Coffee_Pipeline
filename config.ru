@@ -1,0 +1,2 @@
+require "./barista"
+barista.run!
