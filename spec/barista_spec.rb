@@ -1,6 +1,7 @@
 require 'rspec'
 require 'json'
 require 'httparty'
+require './barista'
 
 describe "Coffee order workflow" do
   it "Should accept a JSON get" do
