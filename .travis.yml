@@ -4,3 +4,7 @@ rvm:
 # uncomment and edit the following line if your project needs to run something other than `rake`:
 #script: bundle exec rspec spec barista_spec.rb
 #script: rspec barista_spec.rb
+deploy:
+  provider: heroku
+  api_key:
+    secure: "sleepy-thicket-79547"
