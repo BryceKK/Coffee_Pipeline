@@ -1,4 +1,5 @@
 require 'rspec'
+require 'json'
 require 'httparty'
 
 describe "Coffee order workflow" do
