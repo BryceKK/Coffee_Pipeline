@@ -8,4 +8,4 @@ end
 
 gem "json"
 gem "sinatra"
-ruby '2.0.0'
+#ruby '2.2.0'
