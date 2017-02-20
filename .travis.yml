@@ -7,4 +7,4 @@ rvm:
 deploy:
   provider: heroku
   api_key:
-    secure: "sleepy-thicket-79547"
+    secure: "c5eb5fc2-10ff-46ae-8587-16d6e01b57b0
